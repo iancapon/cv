@@ -1,0 +1,19 @@
+.body-class{
+    background-color: burlywood;
+    margin:100;
+    padding:0;
+}
+
+.main-class{
+    justify-content: center;
+    align-content: center;
+    height: 50vf;
+}
+.text-class{
+    justify-content: center;
+    align-content: center;
+    height: 50vf;
+}
+canvas{
+    background-color: black;
+}
